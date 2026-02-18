@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+node_modules/
+.DS_Store
+*.log
+frontend/dist/
+frontend/node_modules/
